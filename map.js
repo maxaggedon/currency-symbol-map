@@ -176,7 +176,7 @@ module.exports = {
   XAF: 'FCFA',
   XBT: 'Ƀ',
   XCD: '$',
-  XOF: 'CFA',
+  XOF: 'FCFA',
   XPF: 'FCFP',
   XSU: 'Sucre',
   XUA: 'XUA',
